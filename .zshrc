@@ -11,5 +11,5 @@ alias grep="rg"
 
 
 eval "$(fzf --zsh )"
-eval "$(oh-my-posh init zsh --config ~/bin/catppuccin_mocha.omp.json)"
+eval "$(oh-my-posh init zsh --config ~/.config/omp/catppuccin_mocha.omp.json)"
 
